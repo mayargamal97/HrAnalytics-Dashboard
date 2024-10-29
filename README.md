@@ -1,8 +1,5 @@
 # HR Analytics Dashboard
 
-![Overview Page](link-to-overview-image)  
-*Screenshot of the Overview page of the HR Analytics Dashboard.*
-
 ## Table of Contents
 
 - [About the Dashboard](#about-the-dashboard)
@@ -52,7 +49,7 @@ The **Performance Tracker** page (if applicable) allows users to monitor employe
 - KPIs related to productivity and performance ratings
 - Visual comparisons of high-performing and under-performing departments
 
-![image](https://github.com/user-attachments/assets/cc1b34ef-197a-4837-8a51-652b788dcdbb)
+![Screenshot (125)](https://github.com/user-attachments/assets/f1c80b16-3742-4a6a-b62b-d20e616204b9)
 
 
 ## Key Features
