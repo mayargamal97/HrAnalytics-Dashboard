@@ -5,10 +5,7 @@
 - [About the Dashboard](#about-the-dashboard)
 - [Dashboard Pages](#dashboard-pages)
 - [Key Features](#key-features)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
 
----
 
 ## About the Dashboard
 
