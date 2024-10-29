@@ -19,8 +19,8 @@ The **Overview** page provides a high-level summary of the workforce. Key metric
 - Active and inactive employee counts
 - Overall attrition rate
 - A snapshot of departmental distribution
-- 
-  ![Screenshot (122)](https://github.com/user-attachments/assets/cbf1fcc1-4a4f-4ed9-97cc-ea8fe3400f90)
+
+![Screenshot (122)](https://github.com/user-attachments/assets/cbf1fcc1-4a4f-4ed9-97cc-ea8fe3400f90)
 
 
 ### 2. Demographics
