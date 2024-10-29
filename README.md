@@ -48,6 +48,17 @@ The **Performance Tracker** page (if applicable) allows users to monitor employe
 
 ![Screenshot (125)](https://github.com/user-attachments/assets/f1c80b16-3742-4a6a-b62b-d20e616204b9)
 
+## Data Modeling
+
+![Screenshot (136)](https://github.com/user-attachments/assets/86465c0d-98fb-4259-be65-6749194afe3b)
+
+The data model for this dashboard is structured to facilitate efficient data retrieval and analysis. Key entities and relationships include:
+- **Employee Table**: Contains employee demographic information, job roles, and salary details.
+- **Department Table**: Holds data on various departments within the organization, allowing for department-level analysis.
+- **Performance Table** (if applicable): Stores performance ratings and productivity metrics over time.
+- **Attrition Table**: Captures historical data on employee attrition, including reasons for leaving and duration of employment.
+  
+The model is designed to support relationships between entities to allow seamless filtering and aggregation across different dashboard pages.
 
 ## Key Features
 
